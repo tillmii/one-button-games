@@ -33,36 +33,34 @@ Download here: [Link](https://git-scm.com/downloads)
 
 #### Step 1: Fork the project
 Press the button at the top to fork this project.  
-![Start-Fork](tutorial-images/fork1.png)
+![Start-Fork](tutorial-images/1%20-%20fork1.png)
 
 Name the forked repository and create it.  
-![Finish-Fork](tutorial-images/fork2.png)
+![Finish-Fork](tutorial-images/2%20-%20fork2.png)
 
 #### Step 2: Clone the project
 In your forked repository, click the "Code" button.  
-![Code-Button](tutorial-images/clone1.png)
-
 Then copy the HTTPS (or SSH) clone link.  
-![Clone-Button](tutorial-images/clone2.png)
+![Code-Button](tutorial-images/3%20-%20clone.png)
 
 Find the "clone" button in your git user interface.  
-![Git-Clone-Button](tutorial-images/clone3.png)
+![Git-Clone-Button](tutorial-images/4%20-%20clone3.png)
 
 Clone the project by inserting the clone link.  
 You can also assign a location the repository should be created at.  
-![Finish-Clone](tutorial-images/clone4.png)
+![Finish-Clone](tutorial-images/5%20-%20clone4.png)
 
 #### Step 3: Copy your game
 Insert your folder into your local repository.  
 The folder should contain three files: "game.exe", "image.jpg", "README.md".  
-![Folder-Example](tutorial-images/folder.png)
+![Folder-Example](tutorial-images/6%20-%20folder.png)
 
 #### Step 4: Execute script
 Execute the "script.cmd" file.  
 Do not press anything until the script is finished.  
 If everything worked correctly, your folder should be visible in your online forked repository from step 1.  
-![Pushed](tutorial-images/pushed.png)
+![Pushed](tutorial-images/7%20-%20pushed.png)
 
 #### Step 5: Submit a pull request
 Finally open a pull request on the webpage by clicking the button at the top.  
-![Pull-Request](tutorial-images/pull-request.png)
+![Pull-Request](tutorial-images/8%20-%20pull-request.png)
