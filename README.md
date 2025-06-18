@@ -55,12 +55,17 @@ Insert your folder into your local repository.
 The folder should contain three files: "game.exe", "image.jpg", "README.md".  
 ![Folder-Example](tutorial-images/6%20-%20folder.png)
 
-#### Step 4: Execute script
-Execute the "script.cmd" file.  
-Do not press anything until the script is finished.  
+#### Step 4: Push your changes
+Execute the "uploader.cmd" script file or push it manually.  
+When using the script, do not press anything until the script is finished.  
+When pushing it manually, ensure the submission follows our guidelines above.  
 If everything worked correctly, your folder should be visible in your online forked repository from step 1.  
 ![Pushed](tutorial-images/7%20-%20pushed.png)
 
 #### Step 5: Submit a pull request
 Finally open a pull request on the webpage by clicking the button at the top.  
 ![Pull-Request](tutorial-images/8%20-%20pull-request.png)
+
+Should there be any problems with uploading or errors in the script. Contact us!  
+We can also upload it for you. For that send us your submission (as described above) directly.  
+Discord: tillmii or argonbart
