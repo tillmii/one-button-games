@@ -33,38 +33,38 @@ Download here: [Link](https://git-scm.com/downloads)
 
 #### Step 1: Fork the project
 Press the button at the top to fork this project.  
-![Start-Fork](tutorial-images/1%20-%20fork1.png)
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/16000899-6392-4ac6-ac77-fd03dcf3fa70" />
 
 Name the forked repository and create it.  
-![Finish-Fork](tutorial-images/2%20-%20fork2.png)
+<img width="582" alt="Image" src="https://github.com/user-attachments/assets/3f189ee2-695d-47a8-8840-5c33e513b819" />
 
 #### Step 2: Clone the project
 In your forked repository, click the "Code" button.  
 Then copy the HTTPS (or SSH) clone link.  
-![Code-Button](tutorial-images/3%20-%20clone.png)
+<img width="982" alt="Image" src="https://github.com/user-attachments/assets/14f3f28c-4fd1-4d4d-9300-3a99400ca178" />
 
 Find the "clone" button in your git user interface.  
-![Git-Clone-Button](tutorial-images/4%20-%20clone3.png)
+<img width="312" alt="Image" src="https://github.com/user-attachments/assets/dd28cbb8-8bfd-4136-a096-8cad89f80dd0" />
 
 Clone the project by inserting the clone link.  
 You can also assign a location the repository should be created at.  
-![Finish-Clone](tutorial-images/5%20-%20clone4.png)
+<img width="455" alt="Image" src="https://github.com/user-attachments/assets/242cd61a-aaa6-410d-be3c-592717a1df60" />
 
 #### Step 3: Copy your game
 Insert your folder into your local repository.  
 The folder should contain three files: "game.exe", "image.jpg", "README.md".  
-![Folder-Example](tutorial-images/6%20-%20folder.png)
+<img width="526" alt="Image" src="https://github.com/user-attachments/assets/b2a962b4-c5f6-4b5c-beed-5b316ab2fb48" />
 
 #### Step 4: Push your changes
 Execute the "uploader.cmd" script file or push it manually.  
 When using the script, do not press anything until the script is finished.  
 When pushing it manually, ensure the submission follows our guidelines above.  
 If everything worked correctly, your folder should be visible in your online forked repository from step 1.  
-![Pushed](tutorial-images/7%20-%20pushed.png)
+<img width="985" alt="Image" src="https://github.com/user-attachments/assets/86643873-dd9d-4a89-bc58-d183ae7737ab" />
 
 #### Step 5: Submit a pull request
 Finally open a pull request on the webpage by clicking the button at the top.  
-![Pull-Request](tutorial-images/8%20-%20pull-request.png)
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/067d3e0b-a737-4326-9b80-4715d2dc25e0" />
 
 Should there be any problems with uploading or errors in the script. Contact us!  
 We can also upload it for you. For that send us your submission (as described above) directly.  
