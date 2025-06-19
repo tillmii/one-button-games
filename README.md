@@ -66,6 +66,9 @@ If everything worked correctly, your folder should be visible in your online for
 Finally open a pull request on the webpage by clicking the button at the top.  
 <img width="954" alt="Image" src="https://github.com/user-attachments/assets/067d3e0b-a737-4326-9b80-4715d2dc25e0" />
 
+Give it a title and confirm. Done!  
+<img width="970" alt="Image" src="https://github.com/user-attachments/assets/6a1549d4-548c-4cda-8bb0-19bfdc5453ec" />
+
 Should there be any problems with uploading or errors in the script. Contact us!  
 We can also upload it for you. For that send us your submission (as described above) directly.  
 Discord: tillmii or argonbart
