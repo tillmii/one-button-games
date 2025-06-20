@@ -12,7 +12,7 @@ That folder should contain:
 ### Structure for the README
 The README file should be structured as follows:
 - First line should start with a **#** and follow with the title of the game (e.g. *# My Great Game*)  
-- Second line should contain the description of the game.  
+- Second line should contain the description of the game. It should not contain more than 400 symbols, or else it will get cut off.  
 
 #### Example README
 ```
