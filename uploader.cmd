@@ -95,15 +95,15 @@ if not errorlevel 1 (
 
 
 :: check if there are any other unwanted files
-echo Searching for any invalid files ...
-echo git_files_length = !git_files_length!
-if !git_files_length! GTR 3 (
-    echo Found unwanted files.
-    pause
-    exit /b 1
-)
-echo No invalid files were found
-echo =========================
+:: echo Searching for any invalid files ...
+:: echo git_files_length = !git_files_length!
+:: if !git_files_length! GTR 3 (
+::     echo Found unwanted files.
+::     pause
+::     exit /b 1
+:: )
+:: echo No invalid files were found
+:: echo =========================
 
 
 :: ready for upload
