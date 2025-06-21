@@ -7,17 +7,26 @@ You should add only one folder for your game.
 That folder should contain:  
 - An executable to play your game. It should be named **game.exe**!
 - An image to display your game. It should be named **image.jpg**!  
-- A README file with some additional infos structured as below. It should be named **README.md**!
+- A README file with some additional infos about your game. It should be named **README.md**!
+
+### Infos for the files
+The game.exe file should start in **full screen mode**!  
+Make sure the image file has the .jpg format.  
+The README file should be structured as shown below.
 
 ### Structure for the README
 The README file should be structured as follows:
-- First line should start with a **#** and follow with the title of the game (e.g. *# My Great Game*)  
-- Second line should contain the description of the game. It should not contain more than 400 symbols, or else it will get cut off.  
+- The first line should contain the title of the game (e.g. *My Great Game*)  
+- The second line should contain the hex code (including the '#' symbol) of the color used to display your game (e.g. *#95d35d*)  
+- The third line should contain the names of all authors/creators, seperated with the ',' symbol (e.g. *Billy, Bob, James*)  
+- The forth line should contain the description of the game. It should be written in one line and it shoud not contain more than 400 symbols, or else it will get cut off.  (e.g. *My great game about great stuff with great mechanics!*)
 
 #### Example README
 ```
-# My Great Game
-In "My Great Game" you play my great game! :)
+My Great Game
+#95d35d
+Billy, Bob, James
+My great game about great stuff with great mechanics!
 ```
 
 ## How to Submit
